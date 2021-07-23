@@ -1,7 +1,7 @@
-{{cookiecutter.project_name}}
+MLOps deploy modelos
 ==============================
 
-{{cookiecutter.description}}
+MLOps deploy modelos
 
 Project Organization
 ------------
