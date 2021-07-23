@@ -1,7 +1,7 @@
-MLOps deploy modelos
+MLOps deploy models with Cookiecutter
 ==============================
 
-MLOps deploy modelos
+MLOps deploy models with Cookiecutter
 
 Project Organization
 ------------
